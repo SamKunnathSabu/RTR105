@@ -1,0 +1,51 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls -lt
+    5  rm -rf RTR105
+    6  git clone https://github.com/SamKunnathSabu/RTR105
+    7  ls -lt
+    8  cd RTR105/
+    9  pwd
+   10  ls lt
+   11  ls -lt
+   12  pwd [L]
+   13  pwd [P]
+   14  pwd L
+   15  cd Photos
+   16  cd ~SamKunnathSabu
+   17  cd ..
+   18  cd-
+   19  ls /home/username/Documents
+   20  ls /home/SamKunnathSabu/Documents
+   21  ls -R
+   22  ls -a
+   23  ls -lh
+   24  cat>filename.txt
+   25  ls -lt
+   26  cp RTR105.txt/home/SamKunnathSabu/Documents
+   27  pwd
+   28  ls -lt
+   29  ifconfig
+   30  cd
+   31  ls
+   32  cp history_20230912.txt /home/SamKunnathSabu/Documents
+   33  touch /home/user/RTR105/README.md
+   34  cp RTR105/history_20230912_class_04.txt ./Downloads/
+   35  cmatrix
+   36  fortune
+   37  pwd
+   38  mkdir Music
+   39  mkdir Music/Songs
+   40  mkdir -p Music/2020/Songs
+   41  mkdir -v
+   42  mkdir-v 
+   43  history>history_20230920_txt
+   44  history > history_20230920_txt
+   45  ls -lt
+   46  pwd
+   47  cd RTR105
+   48  ls -lt
+   49  pwd
+   50  nano.history_20230920_class_05.txt
+   51  history > history_20230920_class_05.txt
