@@ -1,0 +1,31 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clonehttps://github.com/SamKunnathSabu/RTR105
+    5  git clone https://github.com/SamKunnathSabu/RTR105
+    6  ls -lt
+    7  cd RTR105/
+    8  mkdir class_11
+    9  cd class_11/
+   10  pwd
+   11  nano while_char.c
+   12  gcc while_char.c 
+   13  nano while_char.c
+   14  gcc while_char.c 
+   15  nano while_char.c
+   16  gcc while_char.c 
+   17  nano while_char.c
+   18  ./a.out 
+   19  nano while_char.c
+   20* 
+   21  ./a.out
+   22  nano while_rand.c
+   23  gcc while_rand.c
+   24  ./a.out 
+   25  nano function_V1.c
+   26  gcc function_V1.c 
+   27  ./a.out 
+   28  nano foo.h
+   29  gcc foo.h 
+   30  ./a.out 
+   31  history > history20231018
