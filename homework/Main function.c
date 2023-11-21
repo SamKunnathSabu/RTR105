@@ -1,4 +1,25 @@
 #include <stdio.h>
+#include <stdlib.h> // Include this header for the rand() function
+
+// Function 1: display_message
+void display_message() {
+  printf("Hello, this is function 1!\n");
+}
+
+// Function 2: greet_user
+void greet_user(char name[]) {
+  printf("Hello, %s! Welcome to function 2.\n", name);
+}
+
+// Function 3: get_random_number
+int get_random_number() {
+  return rand(); // Generates a pseudo-random number
+}
+
+// Function 4: calculate_sum
+int calculate_sum(int num1, int num2) {
+  return num1 + num2;
+}
 
 int main() {
   // Call function 1
